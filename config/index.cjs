@@ -8,10 +8,10 @@
 const USER_CONFIG = {
 
   // 使用微信测试号：公众号APP_ID
-  APP_ID: '',
+  APP_ID: 'wx0c75b1f42fdd9b03',
 
   // 使用微信测试号：公众号APP_SECRET
-  APP_SECRET: '',
+  APP_SECRET: '5e3edc8ef17fd7b7d31d7c8fd64044e9',
 
   PROVINCE: '河北',
   CITY: '保定',
@@ -57,7 +57,7 @@ const USER_CONFIG = {
     {
       name: 'push',
       // 使用微信测试号：自己的微信id，扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: 'wx0c75b1f42fdd9b03',
+      id: 'oCWwU6RMTxvGVX5XZv5ewqSFcEsw',
     }
   ],
 
